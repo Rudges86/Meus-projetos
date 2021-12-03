@@ -40,6 +40,7 @@ function remove(a,b){
 function adiciona(){
     const conteudo = document.querySelector('#conteudo')
     conteudo.style.display = 'block'
+    
 }
 
 botao.addEventListener('click',()=>{
